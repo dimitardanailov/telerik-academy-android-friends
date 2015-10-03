@@ -1,2 +1,3 @@
-# telerik-academy-android-friends
-Created for Telerik Academy. Course: Hybrid Mobile applications with Apache Cordova, Season: 2011 - 2012
+# [Hybrid Mobile Apps Course](http://academy.telerik.com/student-courses/software-technologies/hybrid-mobile-apps/about)
+
+> Курсът "Хибридни мобилни приложения" ще ви научи да създавате приложения за различни операционни системи като Android, iOS, Windows Phone 8 и др. с помощта на Apache Cordova. Apache Cordova е решение с отворен код за разработване на междуплатформени приложения чрез базирани на стандарти уеб технологии като HTML, CSS и JavaScript. По време на курса ще разгледате основните компоненти от процеса по разработка на мобилно приложение и ще се запознаете с възможностите на мобилното устройство (Camera, Contacts, Compas, Gyroscopte, Geolocation и други).
